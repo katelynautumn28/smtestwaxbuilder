@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: medievalfragments
+  collection: smtestwaxbuilder
   pid: obj24
   y: 25%
   clickable: yes
@@ -23,4 +23,4 @@ Before using WaxBuilder, I suggest you familiarise yourself with Wax, including 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='worktype' collection='medievalfragments' %}
+{% include collection_gallery.html facet_by='worktype' collection='smtestwaxbuilder' %}
