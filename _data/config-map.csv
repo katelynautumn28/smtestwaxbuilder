@@ -1,4 +1,4 @@
 field,display_name,search
-dateStart,dateEnd,true
-agent,true
-location,latitude,longitude,true
+dateStart,date,true
+agents,people,true
+latitude,longitude,location,true
