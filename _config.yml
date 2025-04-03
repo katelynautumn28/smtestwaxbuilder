@@ -18,7 +18,7 @@
 title:            'Sylvester Manor Wax Builder Test'
 description:      'test as of April 2025'
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
-baseurl:          '/smtestwaxbuilder' #CHANGE THIS
+baseurl:          '/smtestwaxbuilder/smtestwaxbuilder' #CHANGE THIS
 copyright:        'Cornell University Digital CoLab, 2024'
 logo:             '/img/book.png'
 default_thumb:    '/img/default.png'
