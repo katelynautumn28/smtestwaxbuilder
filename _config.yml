@@ -15,8 +15,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'WaxBuilder'
-description:      'A minimal collections exhibit platform'
+title:            'Sylvester Manor Wax Builder Test'
+description:      'test as of April 2025'
 url:              'https://katelynautumn28.github.io' #CHANGE THIS
 baseurl:          '/smtestwaxbuilder' #CHANGE THIS
 copyright:        'Cornell University Digital CoLab, 2024'
@@ -86,14 +86,9 @@ search:
           - agent
           - dateStart
           - dateEnd
-          - recnum
-          - catalogrecord
-          - collectionnum
+          - description
           - worktype
           - tTags
-          - archcoll
-          - box
-          - folder
           - rights
           - bibliography
           - originalwork
