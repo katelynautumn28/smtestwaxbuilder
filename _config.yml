@@ -22,7 +22,7 @@ baseurl:          '/smtestwaxbuilder' #CHANGE THIS
 copyright:        'Cornell University Digital CoLab, 2024'
 logo:             '/img/book.png'
 default_thumb:    '/img/default.png'
-metadata: 'smtestwaxbuilder' #CHANGE THIS; exclude the file extension, i.e. .csv
+metadata: 'smtestwaxbuilder1' #CHANGE THIS; exclude the file extension, i.e. .csv
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -63,7 +63,7 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'smtestwaxbuilder_item' # the layout for the pages to use; CHANGE THIS
     metadata:
-      source: 'smtestwaxbuilder.csv' # path to the metadata file within `_data`; CHANGE THIS
+      source: 'smtestwaxbuilder1.csv' # path to the metadata file within `_data`; CHANGE THIS
     images:
       source: 'raw_images/smtestwaxbuilder_images' # path to the directory of images within `_data`; CHANGE THIS
 
